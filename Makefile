@@ -15,3 +15,4 @@ all:
 	python assembler.py tests/mytests/jalswlw.s
 	python assembler.py tests/mytests/swinc.s
 	python assembler.py tests/mytests/lui.s
+	python assembler.py tests/mytests/orsub.s
