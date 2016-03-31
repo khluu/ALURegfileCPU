@@ -16,3 +16,5 @@ all:
 	python assembler.py tests/mytests/swinc.s
 	python assembler.py tests/mytests/lui.s
 	python assembler.py tests/mytests/orsub.s
+	python assembler.py tests/mytests/shift.s
+	python assembler.py tests/mytests/slt.s
